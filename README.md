@@ -4,11 +4,10 @@
 
 I'm Dami.
 
-For enquiries, reach out on [Twitter](https://twitter.com/dtajayi).
-
-
 - 👯 I’m looking to collaborate on building software as a Full Stack Developer. My stack is MERN, I also write backend in Java.
-- ⚡: In my past job, I was an Energy Systems Designer; 3D modeling, and PV Systems Sizing. 
+- ⚡ In my past job, I was an Energy Systems Designer doing 3D modeling, and PV Systems Sizing. 
+
+For enquiries, reach out on [Twitter](https://twitter.com/dtajayi).
 
 <!--
 **DamilolaAjayi/DamilolaAjayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
