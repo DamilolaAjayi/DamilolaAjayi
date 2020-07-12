@@ -1,4 +1,4 @@
-[![Social banner for DamilolaAjayi](https://github.com/DamilolaAjayi/DamilolaAjayi/raw/master/assets/courage-the-developer.gif)](https://twitter.com/dtajayi)
+[![Social banner for DamilolaAjayi](https://github.com/DamilolaAjayi/DamilolaAjayi/raw/master/assets/man-developer.gif)](https://twitter.com/dtajayi)
 
 # Hi! :wave:
 
@@ -7,8 +7,9 @@ I'm Dami.
 For enquiries, reach out on [Twitter](https://twitter.com/dtajayi).
 
 
-### Hi there 👋
+- 👯 I’m looking to collaborate on building software as a Full Stack Developer. My stack is MERN, I also write backend in Java.
 - ⚡: In my past job, I was an Energy Systems Designer; 3D modeling, and PV Systems Sizing. 
+
 <!--
 **DamilolaAjayi/DamilolaAjayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
