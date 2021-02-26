@@ -4,7 +4,7 @@
 
 I'm Dami.
 
-- 👯 I currently build software with VueJS, Ruby on Rails, Java, and GraphQL.
+- 👯 I currently build software with VueJS, NuxtJS, and Ruby on Rails. Other skillset: GraphQL, REST, etc.
 - ⚡ In my past job, I was an Energy Systems Designer doing 3D modeling, and PV Systems Sizing. 
 
 Let's connect on [Twitter](https://twitter.com/dtajayi)!.
