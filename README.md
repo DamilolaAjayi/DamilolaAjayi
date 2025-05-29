@@ -2,8 +2,6 @@
 
 # Hi! :wave:
 
-I'm Dami.
-I built this while listening to Moon by Kid Francescoli. It gives a feel to the GIF. I urge you to try it too! ;)
 
 Work 🧰 
 - 👯 I currently build software with Vue.js, Nuxt.js, and Ruby on Rails. Other skillset: GraphQL, REST, etc.
